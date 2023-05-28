@@ -1,0 +1,6 @@
+High School:Math,English,History
+College:Math,English,Programming
+UoPeople:Programming,History
+Future college:History,English,Math
+Never Again:Math,English
+Weird:Programming,Math
